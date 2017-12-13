@@ -1,0 +1,28 @@
+/* Css */
+body{
+  color: white;
+  background-color: black;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+
+.top{
+  background-color: black;
+  background-image: url(sunrise-1756274_1920.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box{
+  height: auto;
+  border: white thin solid;
+  background-color: #8597a3;
+  text-align: left;
+}
+
+a{
+  color: white;
+}
